@@ -6,13 +6,23 @@ namespace Lectia5
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("In ce luna vei cultiva cartofii?");
-            int laCeLunaVaGanditi = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Nu este posibil ca cartifii sa fie cultivati in aceasta luna");
+            Console.WriteLine("In ce luna ati sadit cartofii?");
+            int a = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Daca au fost saditi in lua a 3 - apasa A");
-            Console.WriteLine("Daca au fost saditi in luna a 4 apasa B");
-            string operatia = Console.ReadLine();
+            Console.WriteLine("pentru a afla perioada de recoltare apasa tasta A");
+            
+            string luna = Console.ReadLine();
+            string A = Console.ReadLine();
+            
+            if (luna == "A")
+            {
+                int suma = a  + 4;
+                Console.WriteLine("Vesti putea cultiva peste " + suma );
+            
+            
+            }
+
+            
 
 
         }
