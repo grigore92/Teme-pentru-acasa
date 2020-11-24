@@ -1,0 +1,13 @@
+D:\Curs Programare\New folder\CultivareaCartofilor\Lectia5\bin\Debug\netcoreapp3.1\Lectia5.exe
+D:\Curs Programare\New folder\CultivareaCartofilor\Lectia5\bin\Debug\netcoreapp3.1\Lectia5.deps.json
+D:\Curs Programare\New folder\CultivareaCartofilor\Lectia5\bin\Debug\netcoreapp3.1\Lectia5.runtimeconfig.json
+D:\Curs Programare\New folder\CultivareaCartofilor\Lectia5\bin\Debug\netcoreapp3.1\Lectia5.runtimeconfig.dev.json
+D:\Curs Programare\New folder\CultivareaCartofilor\Lectia5\bin\Debug\netcoreapp3.1\Lectia5.dll
+D:\Curs Programare\New folder\CultivareaCartofilor\Lectia5\bin\Debug\netcoreapp3.1\Lectia5.pdb
+D:\Curs Programare\New folder\CultivareaCartofilor\Lectia5\obj\Debug\netcoreapp3.1\Lectia5.csprojAssemblyReference.cache
+D:\Curs Programare\New folder\CultivareaCartofilor\Lectia5\obj\Debug\netcoreapp3.1\Lectia5.AssemblyInfoInputs.cache
+D:\Curs Programare\New folder\CultivareaCartofilor\Lectia5\obj\Debug\netcoreapp3.1\Lectia5.AssemblyInfo.cs
+D:\Curs Programare\New folder\CultivareaCartofilor\Lectia5\obj\Debug\netcoreapp3.1\Lectia5.csproj.CoreCompileInputs.cache
+D:\Curs Programare\New folder\CultivareaCartofilor\Lectia5\obj\Debug\netcoreapp3.1\Lectia5.dll
+D:\Curs Programare\New folder\CultivareaCartofilor\Lectia5\obj\Debug\netcoreapp3.1\Lectia5.pdb
+D:\Curs Programare\New folder\CultivareaCartofilor\Lectia5\obj\Debug\netcoreapp3.1\Lectia5.genruntimeconfig.cache
