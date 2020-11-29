@@ -1,0 +1,2 @@
+Luna in care utilizatorul trebuie sa recolteze cartofii trebuie sa fie afisata cu litere. Adica, daca utilizatorul trebuie sa recolteze in luna a 5, atunci la consola
+trebuie sa-i fie afisat mesajul "Vei putea recolta in mai."
