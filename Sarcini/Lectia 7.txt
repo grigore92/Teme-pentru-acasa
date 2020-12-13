@@ -1,0 +1,1 @@
+Intreaba utilizatorul daca a cultivat in sera sau pe camp deschis. Daca a cultivat in sera, atunci trebuie sa recolteze peste 4 luni. 
