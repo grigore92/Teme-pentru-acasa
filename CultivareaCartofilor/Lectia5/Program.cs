@@ -5,11 +5,13 @@ namespace Lectia5
     class Program
     {
         static void Main(string[] args)
-        {
+        { 
             Console.WriteLine("In ce luna ati cultivat cartofii?");
             int luna = Convert.ToInt32(Console.ReadLine());
-          
-            if(luna == 1)
+            Console.WriteLine("Daca ati cultivat in sera, tastati X");
+            Console.WriteLine("Daca ati cultivat pe camp deschis, tastati Y");
+            string loculUndeAtiCultivat=Console.ReadLine();
+            if (luna == 1)
             {
                 Console.WriteLine("Veti putea recolta cartofii in Mai");
             }
